@@ -33,7 +33,7 @@ When I’m not busy coding (or pretending to look busy 👀), I’m probably:
 
 <h2>🤝 Let’s Connect</h2>
 <p align="left">
-    <a href="https://ispeedlimit.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="ianiketjain" height="30" width="40" /></a>
+    <a href="https://ianiketjain.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="ianiketjain" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/aniketjain2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianiketjain" height="30" width="40" /></a>
     <a href="https://codeforces.com/profile/ianiketjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ianiketjain" height="30" width="40" /></a>
     <a href="https://leetcode.com/u/ianiketjain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ianiketjain" height="30" width="40" /></a>
